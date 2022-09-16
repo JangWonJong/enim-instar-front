@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./pages"
+    },
+    "include": [
+      "pages/**/*.js",
+      "redux/**/*.ts"
+, "pages/todo/addTodo3.js"    ],
+    "exclude": [
+      "node_modules",
+      "**/*.spec.ts"
+    ]
+}
